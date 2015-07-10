@@ -43,3 +43,5 @@ var ListContainer = React.createClass({
         )
     }
 });
+
+module.exports = ListContainer;
